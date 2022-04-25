@@ -1,4 +1,4 @@
-# apiBootstrapProject
+# spotApiProjet
 Using bootstrap layouts and api to build an app
 
 ![example](images/spotifyApiRef-getGenre.png)
