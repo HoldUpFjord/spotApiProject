@@ -145,10 +145,10 @@ const UIController = (function() {
                 <img src="${img}" alt="">        
             </div>
             <div class="row col-sm-12 px-0 ">
-                <label for="Genre" class="form-label col-sm-12 text-white btn btn-sm btn-success">${title}:</label>
+                <label for="Genre" class="form-label col-sm-12 text-white btn btn-sm btn-success"><i class="bi bi-music-note"></i> ${title}:</label>
             </div>
             <div class="row col-sm-12 px-0">
-                <label for="artist" class="form-label col-sm-12 text-white btn btn-sm btn-success">By ${artist}:</label>
+                <label for="artist" class="form-label col-sm-12 text-white btn btn-sm btn-success"><i class="bi bi-music-note"></i> By ${artist}:</label>
             </div> 
             `;
 
