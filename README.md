@@ -1,6 +1,7 @@
 # apiBootstrapProject
 Using bootstrap layouts and api to build an app
 
+![example](images/spotifyApiRef-getGenre.png)
 
 https://developer.spotify.com/documentation/general/guides/authorization/client-credentials/
 
