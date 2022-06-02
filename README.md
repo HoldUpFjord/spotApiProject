@@ -1,4 +1,9 @@
 # spotApiProjet
+
+
+#myGif
+![(https://github.com/HoldUpFjord/spotApiProject/blob/main/demoGif/spotifyApi.gif)]
+
 This app uses spotify's Web API to GET Genre data, then Playlist data, then display specfic songs img,artist, and title tags.
 
 Spotify's Client Credentials can be seen here:https://developer.spotify.com/documentation/general/guides/authorization/client-credentials/
