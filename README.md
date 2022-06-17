@@ -35,7 +35,7 @@ After pulling the data, we create a interface of classes and Id's that can inter
 
 Once that interface is setup, we merge then with the appController interface. Given that the UI COntroller is essentially an empty vessel, we merge the API contoller which has the actual functionality. We do this using the various Classes, ID,s and methods we've made. 
 
-The layout and styling was done in BOOTSTRAP and inspired by an older version of spotify's
+The layout and styling was done in BOOTSTRAP and inspired by an older version of spotify's stylng.
 
 
 
